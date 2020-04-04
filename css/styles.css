@@ -162,7 +162,7 @@ p {
 
 @media (max-width: 990px) {
 
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
 
@@ -170,4 +170,5 @@ p {
     position: static;
     transform: rotate(0);
   }
+
 }
